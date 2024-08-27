@@ -76,4 +76,4 @@ function mostraResultado(){
     caixaAlternativas.textContent = "";
 }
 
-mostraPergunta();Alguma Coisa
+mostraPergunta();
